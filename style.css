@@ -23,7 +23,7 @@ video{
 h1{
     position: absolute;
     height: 100px;
-    color: black;
+    color: white;
     z-index: 1;
     left: 36%;
     top: 25%;
@@ -35,7 +35,7 @@ display: flex;
 position: absolute;
 top: 47%;
 left: 31%;
-color: black;
+color:white;
 }
 
 .big-text{
